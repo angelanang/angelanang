@@ -62,14 +62,6 @@ enough to build with them, not just use them.
 
 ---
 
-#### Learning progress
-
-
-[![roadmap.sh](https://roadmap.sh/card/tall/6a68eb3333d15c8310ba1ce4?variant=dark&roadmaps=angular%2Cfrontend%2Cfrontend-performance-best-practices%2Ccomputer-science)](https://roadmap.sh)
-
-
----
-
 #### Find me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angela.r.nang@gmail.com)
