@@ -48,8 +48,8 @@ enough to build with them, not just use them.
 
 | Area | Tools |
 |------|-------|
-| Frontend | `Angular` |
-| Version control | `Git`, `GitHub` |
+| Frontend | Angular |
+| Version control | Git, GitHub |
 <!-- LANGUAGES row, once confirmed hands-on, e.g.: | Languages | `TypeScript`, `JavaScript`, `HTML/CSS` | -->
 <!-- DATABASES row, once touched, e.g.: | Databases | `SQL` | -->
 
@@ -65,13 +65,14 @@ enough to build with them, not just use them.
 #### Learning progress
 
 
-[![roadmap.sh Road Card]([https://roadmap.sh/card/YOUR-CARD-ID.svg)](https://roadmap.sh/angular](https://roadmap.sh/card/tall/6a68eb3333d15c8310ba1ce4?variant=dark&roadmaps=angular%2Cfrontend%2Cfrontend-performance-best-practices%2Ccomputer-science))
+[![roadmap.sh](https://roadmap.sh/card/tall/6a68eb3333d15c8310ba1ce4?variant=dark&roadmaps=angular%2Cfrontend%2Cfrontend-performance-best-practices%2Ccomputer-science)](https://roadmap.sh)
 
 
 ---
 
 #### Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/angelanang)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angela.r.nang@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/angelanang)
+
 <!-- ADD: Codewars, freeCodeCamp, Codecademy badges here once ready -->
