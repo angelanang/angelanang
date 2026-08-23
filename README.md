@@ -40,7 +40,7 @@ enough to build with them, not just use them.
 #### Actively using
 | Area | Tools |
 |------|-------|
-| Frontend | Angular |
+| Frontend |JavaScript, Angular |
 | Version control | Git, GitHub |
 <!-- LANGUAGES row, once confirmed hands-on, e.g.: | Languages | `TypeScript`, `JavaScript`, `HTML/CSS` | -->
 <!-- DATABASES row, once touched, e.g.: | Databases | `SQL` | -->
